@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68c8d153.css",
+    "main.js": "/static/js/main.f6cddf49.js",
+    "static/media/edit.svg": "/static/media/edit.2b02c788a1949aed39f841a006a49b67.svg",
+    "index.html": "/index.html",
+    "static/media/xIcon.svg": "/static/media/xIcon.b88c17d51fa090f1a0e1793a8ffa1d3e.svg",
+    "static/media/arrowDown.svg": "/static/media/arrowDown.21b3273b98dff82edc54acbdfab5309b.svg",
+    "static/media/Ellipse1.svg": "/static/media/Ellipse1.8babeef12cfbde230edada20a07b25b6.svg",
+    "static/media/Ellipse2.svg": "/static/media/Ellipse2.10c57c23804d8194dea5b518ab4ebd26.svg",
+    "static/media/Ellipse3.svg": "/static/media/Ellipse3.96057e37012a4e1c1a8e3a77df689397.svg",
+    "static/media/Ellipse5.svg": "/static/media/Ellipse5.e80f891cf0dccd8191db19ea2baf736b.svg",
+    "static/media/Ellipse4.svg": "/static/media/Ellipse4.ec7f5a9cf68b105e6528f6379832bf38.svg",
+    "static/media/Ellipse6.svg": "/static/media/Ellipse6.5b3ae9d4ce061a3ac55f1f139e6680a8.svg",
+    "static/media/Ellipse7.svg": "/static/media/Ellipse7.dbdc42247673c0b53aa9de463ca05b40.svg",
+    "main.68c8d153.css.map": "/static/css/main.68c8d153.css.map",
+    "main.f6cddf49.js.map": "/static/js/main.f6cddf49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c8d153.css",
+    "static/js/main.f6cddf49.js"
+  ]
+}
